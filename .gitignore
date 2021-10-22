@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Databases
+Creating_Database.ipynb
+
+# Wind masks
+Creating_wind_mask.ipynb
+
+# Dask stuff
+dask-worker-space
