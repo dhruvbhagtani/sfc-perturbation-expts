@@ -134,5 +134,11 @@ Creating_Database.ipynb
 # Wind masks
 Creating_wind_mask.ipynb
 
+# Animation figures
+Animations/
+
+# Offset notebooks
+Creating_offset.ipynb
+
 # Dask stuff
 dask-worker-space
