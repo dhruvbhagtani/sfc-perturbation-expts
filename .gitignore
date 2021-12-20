@@ -134,6 +134,9 @@ Creating_Database.ipynb
 # Wind masks
 Creating_wind_mask.ipynb
 
+# netCDF inputs
+netCDF_inputs.ipynb
+
 # Animation figures
 Animations/
 
