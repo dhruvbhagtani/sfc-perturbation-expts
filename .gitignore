@@ -139,6 +139,8 @@ Animations/
 
 # Offset notebooks
 Creating_offset.ipynb
+Offset_SAT.ipynb
+Offset_rlds.ipynb
 
 # Dask stuff
 dask-worker-space
