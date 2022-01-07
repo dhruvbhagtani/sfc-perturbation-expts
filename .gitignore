@@ -134,11 +134,16 @@ Creating_Database.ipynb
 # Wind masks
 Creating_wind_mask.ipynb
 
+# netCDF inputs
+netCDF_inputs.ipynb
+
 # Animation figures
 Animations/
 
 # Offset notebooks
 Creating_offset.ipynb
+Offset_SAT.ipynb
+Offset_rlds.ipynb
 
 # Dask stuff
 dask-worker-space
