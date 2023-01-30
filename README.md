@@ -1,4 +1,4 @@
-# varying-surface-forcing
+# sfc-perturbation-experiments
 The ocean circulation is driven by a combination of winds and surface buoyancy fluxes. We run a number of experiments with varied surface forcings and look at the spatial variations in ocean circulation on short and long time-scales. 
 
 ## List of potential experiments 
